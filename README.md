@@ -7,7 +7,8 @@ The analysis explores various factors such as sleep quality, financial stress an
 ```
 Data analysis and visualization of key factors contributing to depression.
 Interpretation of patterns using machine learning techniques.
-Develope model and deploy in web interface.
+A web application to analyze and predict the risk of depression among students based on multiple factors using machine learning.
+
 ```
 #Dataset
 ```
