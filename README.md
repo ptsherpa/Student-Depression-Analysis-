@@ -14,20 +14,24 @@ Develope model and deploy in web interface.
 The dataset used in this project is imported from Kaggle. Please ensure you download the appropriate dataset from Kaggle and place it in the project directory for the analysis to work correctly.
 ```
 #Installation
+```
 To avoid errors, please install the necessary libraries. You can do so by running the following command:
 pip install -r requirements.txt
 Note: Make sure to create a requirements.txt file in your project directory with the list of required libraries.
-
+```
 #Usage
+```
 Clone this repository to your local machine.
 Download the dataset from Kaggle and place it in the specified folder.
 Install the required libraries using the command above.
 Run the scripts to perform analysis and visualization.
-
+```
 #License
+```
 This project is open source and available under the MIT License.
-
+```
 #folder dictory:
+```
 website/
 ├── backend/
 │   ├── server.py
@@ -46,3 +50,4 @@ website/
 │           └── components/
 │               ├── PredictionForm.js
 │               └── Results.js
+```
