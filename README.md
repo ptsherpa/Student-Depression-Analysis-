@@ -23,3 +23,24 @@ Run the scripts to perform analysis and visualization.
 
 License
 This project is open source and available under the MIT License.
+
+folder dictory:
+website/
+├── backend/
+│   ├── server.py
+│   ├── preprocessors/
+│   │   ├── encoder.joblib
+│   │   ├── scaler.joblib
+│   └── models/
+│       └── logistic_model.pkl
+├── frontend/
+│   ├── depression-prediction/
+│       ├── node_modules/
+│       ├── public/
+│       ├── src/
+│           ├── App.js
+│           ├── index.js
+│           └── components/
+│               ├── PredictionForm.js
+│               └── Results.js
+
