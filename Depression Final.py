@@ -11,7 +11,7 @@ import numpy as np
 # In[3]:
 
 
-data = pd.read_csv('C:\\Users\\DEVIL\\Desktop\\6th project\\DataSet\\student_depression_dataset.csv', encoding='ISO-8859-1')
+data = pd.read_csv('C:\\Users\\Desktop\\DataSet\\student_depression_dataset.csv', encoding='ISO-8859-1')
 
 
 # In[4]:
